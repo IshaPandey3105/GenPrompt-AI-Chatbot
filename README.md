@@ -16,7 +16,8 @@
 
 ```
 
-![Preview Screenshot](screenshot.png)
+![Preview Screenshot]
+<img width="914" height="436" alt="Screenshot 2025-09-03 195314" src="https://github.com/user-attachments/assets/1b7275e7-12fe-4b89-97aa-f94620365118" />
 
 ```
 
